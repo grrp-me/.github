@@ -1,12 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
+With [Grrp.me](http://grrp.me) you can create a custom landing page with all your links.
+Add a link in bio for your Instagram & TikTok profile. Turn your followers into clients.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Use our link in bio service for free
+[Grrp.me](https://www.grrp.me), a link in bio service. With Grrp you can easily create a custom landingpage that contains all your links. Get startet for free on [Grrp.me](https://www.grrp.me)
